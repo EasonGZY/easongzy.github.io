@@ -2,7 +2,7 @@
 title: "DATE 2024: FMTT: Fused Multi-head Transformer with Tensor-compression for 3D Point Clouds Detection on Edge Devices"
 collection: publications
 date: 2024-3-25
-venue: '61st IEEE/ACM Design Automation Conference. (DAC), San Francisco, CA'
+venue: '2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)'
 slidesurl: '../files/DATE_2024_FMTT_Slide.pdf'
 paperurl: '../files/DATE_2024__FMTT_Paper.pdf'
 citation: 'Zikun Wei, Tingting Wang, Chenchen Ding, Bohan Wang, Ziyi Guan, Hantao Huang, and Hao Yu “FMTT: Fused Multi-head Transformer with Tensor-compression for 3D Point Clouds Detection on Edge Devices”, Design, Automation & Test in Europe Conference & Exhibition (DATE), March 25, Valencia, 2024.'
