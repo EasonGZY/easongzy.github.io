@@ -12,7 +12,7 @@ I am Ziyi Guan (管子义), a third-year PhD candidate at The Univerisity of Hon
 
 My major research interests lie in Large Language Model (LLM) compression techniques such as weight Quantization and Sparsity. Also, I'm interested in LLM finetune techniques. You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en)
 
-You can find my CV here: [Ziyi GUan's Curriculum Vitae](../assets/Curriculum_Vitae_Ziyi_Guan.pdf).
+You can find my CV here: [Ziyi Guan's Curriculum Vitae](../assets/Curriculum_Vitae_Ziyi_Guan.pdf).
 
 Selected Publications
 
