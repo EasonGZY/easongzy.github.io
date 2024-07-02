@@ -16,12 +16,12 @@ You can find my CV here: [Ziyi GUan's Curriculum Vitae](../assets/Curriculum_Vit
 
 Selected Publications
 
-**Ziyi Guan**, Hantao Huang, Yupeng Su, Hong Huang, Ngai Wong and Hao Yu, ”APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC**), San Francisco, CA, June 23-27, 2024. [pdf](https://arxiv.org/abs/2402.14866)
+**Ziyi Guan**, Hantao Huang, Yupeng Su, Hong Huang, Ngai Wong and Hao Yu, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
 
-**Ziyi Guan**, Boyu Li, Yuan Ren, Muqun Niu, Hantao Huang, Graziano Chesi, Hao Yu and Ngai Wong, ” An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design”, Design, Automation & Test in Europe Conference & Exhibition (**DATE**), March 25, Valencia, 2024.
+**Ziyi Guan**, Boyu Li, Yuan Ren, Muqun Niu, Hantao Huang, Graziano Chesi, Hao Yu and Ngai Wong, “An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design”, Design, Automation & Test in Europe Conference & Exhibition (**DATE**), March 25, Valencia, 2024. [PDF][https://ieeexplore.ieee.org/abstract/document/10546743]
 
-Shuwei Li, **Ziyi Guan**, Changhai Man, Ao Shen, Wei Mao, Shaobo Luo, Rumin Zhang, and Hao Yu. 2022. “A Fall Detection Network by 2D/3D Spatio-temporal Joint Models with Tensor Compression on Edge.” in ACM Transactions on Embedded Computing Systems (**TECS**) vol. 21, no. 6, pp. 1–19, 2022
+Shuwei Li, **Ziyi Guan**, Changhai Man, Ao Shen, Wei Mao, Shaobo Luo, Rumin Zhang, and Hao Yu. 2022. “A Fall Detection Network by 2D/3D Spatio-temporal Joint Models with Tensor Compression on Edge.” in ACM Transactions on Embedded Computing Systems (**TECS**) vol. 21, no. 6, pp. 1–19, 2022 [PDF][https://dl.acm.org/doi/10.1145/3531004]
 
 **Ziyi Guan**, Wenyong Zhou, Yuan Ren, Rui Xie, Hao Yu, and Ngai Wong. 2022. “A Hardware-Aware Neural Architecture Search Pareto Front Exploration for In-Memory Computing.” in 2022 IEEE 16th International Conference on Solid-State Integrated Circuit Technology (**ICSICT**). IEEE, 2022, pp. 1–4. [pdf](https://ieeexplore.ieee.org/document/9963263/)
 
-**Ziyi Guan**, Shuwei Li, Yuan Cheng, Changhai Man, Wei Mao, Ngai Wong, and Hao Yu,“A Video-based Fall Detection Network by Spatio-temporal Joint-point Model on Edge Devices”, Design, Automation & Test in Europe Conference & Exhibition (**DATE**). IEEE, 2021, pp. 422–427. [pdf](https://ieeexplore.ieee.org/document/9474206)
+**Ziyi Guan**, Shuwei Li, Yuan Cheng, Changhai Man, Wei Mao, Ngai Wong, and Hao Yu, “A Video-based Fall Detection Network by Spatio-temporal Joint-point Model on Edge Devices”, Design, Automation & Test in Europe Conference & Exhibition (**DATE**). IEEE, 2021, pp. 422–427. [pdf](https://ieeexplore.ieee.org/document/9474206)
