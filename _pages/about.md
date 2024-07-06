@@ -14,7 +14,7 @@ My major research interests lie in Large Language Model (LLM) compression techni
 
 You can find my CV here: [Ziyi Guan's Curriculum Vitae](../assets/Curriculum_Vitae_Ziyi_Guan.pdf). 
 
-[WeChat](../image/WeChat.jpg) / [Email](mailto:u3008363@connect.hku.hk)
+You can contact me by my [Email](mailto:u3008363@connect.hku.hk)
 
 Selected Publications
 
