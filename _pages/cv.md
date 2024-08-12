@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-You can download a PDF copy of my CV here for [English Version](../assets/Curriculum_Vitae_Ziyi_Guan.pdf)
+You can download a PDF copy of my Engilsh CV here [English CV](../assets/Resume_Ziyi_Guan.pdf) and Chinese CV here [Chinese CV](../assets/管子义_大模型算法工程师_简历.pdf)
