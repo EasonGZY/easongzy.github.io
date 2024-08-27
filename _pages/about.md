@@ -10,7 +10,7 @@ redirect_from:
 
 I am Ziyi Guan (管子义), a third-year PhD candidate at The Univerisity of Hong Kong (HKU), supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/) and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). I am expected to graduate from The University of Hong Kong (HKU) in September 2025. Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
 
-My major research interests lie in Large Language Model (LLM) compression techniques such as weight Quantization and Sparsity. Also, I'm interested in LLM finetune techniques. You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en)
+My major research interests lie in Large Language Model (LLM) compression techniques such as weight Quantization and Pruning. Also, I'm interested in LLM finetune techniques. You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en)
 
 You can find my CV here: [Ziyi Guan's Curriculum Vitae](../assets/Curriculum_Vitae_Ziyi_Guan.pdf). 
 
