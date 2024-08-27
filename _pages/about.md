@@ -18,6 +18,8 @@ You can contact me by my [Email](mailto:u3008363@connect.hku.hk)
 
 Selected Publications
 
+Yupeng Su*, **Ziyi Guan***, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Graziano Chesi, Ngai Wong, Hao Yu, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of the AAAI Conference on Artificial Intelligence, 2025 (Under review) [PDF](https://www.arxiv.org/abs/2408.10631) (*represents equal contribution)
+
 **Ziyi Guan**, Hantao Huang, Yupeng Su, Hong Huang, Ngai Wong and Hao Yu, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
 
 **Ziyi Guan**, Boyu Li, Yuan Ren, Muqun Niu, Hantao Huang, Graziano Chesi, Hao Yu and Ngai Wong, “An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design”, Design, Automation & Test in Europe Conference & Exhibition (**DATE**), March 25, Valencia, 2024. [PDF](https://ieeexplore.ieee.org/abstract/document/10546743)
