@@ -15,7 +15,7 @@ My major research interests lie in Large Language Model (LLM) compression techni
 <span style="color: red;">I am actively seeking job opportunities starting in Fall 2025 in the field of Large Language Models (LLM), particularly in model optimization, pruning, quantization, and hardware-efficient neural network design. If you have a relevant position or collaboration opportunity, please feel free to contact me.</span>
 
 
-You can find my Engilsh CV here [English CV](../assets/Resume_of_Ziyi_Guan.pdf) and Chinese CV here [Chinese CV](../assets/管子义博士_大模型算法工程师.pdf)
+You can find my Engilsh CV here [English CV](../assets/Resume_of_Ziyi_Guan.pdf) and Chinese CV here [Chinese CV](../assets/管子义博士_大模型算法工程师_华为招聘.pdf)
 
 You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or by my WeChat: Easongzy
 
