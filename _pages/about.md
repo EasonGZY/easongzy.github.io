@@ -12,7 +12,8 @@ I am Ziyi Guan (管子义), a third-year PhD candidate at The Univerisity of Hon
 
 My major research interests lie in Large Language Model (LLM) compression techniques such as weight Quantization and Pruning. Also, I'm interested in LLM finetune techniques. You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en)
 
-You can find my CV here: [Ziyi Guan's Curriculum Vitae](../assets/Curriculum_Vitae_Ziyi_Guan.pdf). 
+<span style="color: red;">I am actively seeking job opportunities starting in Fall 2025 in the field of Large Language Models (LLM), particularly in model optimization, pruning, quantization, and hardware-efficient neural network design. If you have a relevant position or collaboration opportunity, please feel free to contact me.</span>
+
 
 You can find my Engilsh CV here [English CV](../assets/Resume_of_Ziyi_Guan.pdf) and Chinese CV here [Chinese CV](../assets/管子义博士_大模型算法工程师.pdf)
 
