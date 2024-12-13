@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-I am Ziyi Guan (管子义), a third-year PhD candidate at The Univerisity of Hong Kong (HKU), supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/) and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). I am expected to graduate from The University of Hong Kong (HKU) in September 2025. Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
+I am Ziyi Guan (管子义), a fourth-year PhD candidate at The Univerisity of Hong Kong (HKU), supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/) and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). I am expected to graduate from The University of Hong Kong (HKU) in September 2025. Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
 
-My major research interests lie in Large Language Model (LLM) compression techniques such as weight Quantization and Pruning. Also, I'm interested in LLM finetune techniques. You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en)
+My major research interests lie in Large Language Model (LLM) compression techniques such as weight Quantization and Pruning. Also, I'm interested in LLM Agent techniques, espically in APP/GUI-based Agent and Retrieval-Augmented Generation filed. You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en)
+
+I am currently working as a research intern at Huawei Hong Kong Research Center(HKRC) (starting from November 2024).
 
 <span style="color: red;">I am actively seeking job opportunities starting in Fall 2025 in the field of Large Language Models (LLM), particularly in model optimization, pruning, quantization, and hardware-efficient neural network design. If you have a relevant position or collaboration opportunity, please feel free to contact me.</span>
 
@@ -20,8 +22,12 @@ You can find my Engilsh CV here [English CV](../assets/Resume_of_Ziyi_Guan.pdf) 
 You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or by my WeChat: Easongzy
 
 Selected Publications
+(*represents equal contribution)
 
-Yupeng Su*, **Ziyi Guan***, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Graziano Chesi, Ngai Wong, Hao Yu, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of the AAAI Conference on Artificial Intelligence, 2025 (Under review) [PDF](https://www.arxiv.org/abs/2408.10631) (*represents equal contribution)
+
+Yupeng Su*, **Ziyi Guan***, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Graziano Chesi, Ngai Wong, Hao Yu, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC**) (Under review) [PDF](https://www.arxiv.org/abs/2408.10631) 
+
+Dingbang Liu*, **Ziyi Guan***, Qilong Chen, Jiaqi Yang, Kai Li, Mingqiang Huang , Changwen Chen, Ngai Wong, Hao Yu. ”A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator”, In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC**), (Under review)
 
 **Ziyi Guan**, Hantao Huang, Yupeng Su, Hong Huang, Ngai Wong and Hao Yu, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
 
