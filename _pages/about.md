@@ -25,9 +25,9 @@ Selected Publications
 (*represents equal contribution)
 
 
-Yupeng Su*, **Ziyi Guan***, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Graziano Chesi, Ngai Wong, Hao Yu, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC**) (Under review) [PDF](https://www.arxiv.org/abs/2408.10631) 
+Yupeng Su*, Ziyi Guan*, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Graziano Chesi, Ngai Wong, Hao Yu, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC**) (Under review) [PDF](https://www.arxiv.org/abs/2408.10631) 
 
-Dingbang Liu*, **Ziyi Guan***, Qilong Chen, Jiaqi Yang, Kai Li, Mingqiang Huang , Changwen Chen, Ngai Wong, Hao Yu. ”A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator”, In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC**), (Under review)
+Dingbang Liu*, Ziyi Guan*, Qilong Chen, Jiaqi Yang, Kai Li, Mingqiang Huang , Changwen Chen, Ngai Wong, Hao Yu. ”A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator”, In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC**), (Under review)
 
 **Ziyi Guan**, Hantao Huang, Yupeng Su, Hong Huang, Ngai Wong and Hao Yu, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
 
