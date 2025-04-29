@@ -60,6 +60,7 @@ Other authors:
 
 - Shuwei Li, **Ziyi Guan**, et al. “A Fall Detection Network by 2D/3D Spatio-temporal Joint Models with Tensor Compression on Edge.” in ACM Transactions on Embedded Computing Systems (**TECS**) vol. 21, no. 6, pp. 1–19, 2022 [PDF](https://dl.acm.org/doi/10.1145/3531004)
 
+(Last updated on Mar., 2025)
 
 
 
