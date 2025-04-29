@@ -1,8 +1,8 @@
 ---
 title: "DAC 2025: LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models"
 collection: publications
-date: 2024-8-20
-venue: 'Proceedings of the 61st ACM/IEEE Design Automation Conference'
+date: 2025-8-20
+venue: 'Proceedings of the 62nd ACM/IEEE Design Automation Conference'
 paperurl: '../files/DAC_2025_LLM_Paper.pdf'
 ---
 
