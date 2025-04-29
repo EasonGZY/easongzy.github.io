@@ -41,22 +41,24 @@ Selected Publications
 
 first author and co-first author:
 
-**Ziyi Guan**, et al,"KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **ACL 2025 (CCF-A)**
+- **Ziyi Guan***, et al, "KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **ACL 2025** (**CCF-A**).
 
-Yupeng Su*, Ziyi Guan*, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631) 
+- Yupeng Su***, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
 
-Dingbang Liu*, Ziyi Guan*, et al. ”A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator”, In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**)
+- Dingbang Liu***, **Ziyi Guan***, et al, "A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**)
 
-**Ziyi Guan**, et al, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC 2024 (CCF-A)**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
 
-**Ziyi Guan**, et al, “An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design”, Design, Automation & Test in Europe Conference & Exhibition (**DATE 2024 (CCF-B)**), March 25, Valencia, 2024. [PDF](https://ieeexplore.ieee.org/abstract/document/10546743)
+- **Ziyi Guan**, et al, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC 2024 (CCF-A)**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
 
-**Ziyi Guan**,et al, “A Video-based Fall Detection Network by Spatio-temporal Joint-point Model on Edge Devices”, Design, Automation & Test in Europe Conference & Exhibition (**DATE 2021 (CCF-B)**). IEEE, 2021, pp. 422–427. [pdf](https://ieeexplore.ieee.org/document/9474206)
+- **Ziyi Guan**, et al, “An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design”, Design, Automation & Test in Europe Conference & Exhibition (**DATE 2024 (CCF-B)**), March 25, Valencia, 2024. [PDF](https://ieeexplore.ieee.org/abstract/document/10546743)
 
-**Ziyi Guan**, et al, “A Hardware-Aware Neural Architecture Search Pareto Front Exploration for In-Memory Computing.” in 2022 IEEE 16th International Conference on Solid-State Integrated Circuit Technology (**ICSICT**). IEEE, 2022, pp. 1–4. [pdf](https://ieeexplore.ieee.org/document/9963263/)
+- **Ziyi Guan**,et al, “A Video-based Fall Detection Network by Spatio-temporal Joint-point Model on Edge Devices”, Design, Automation & Test in Europe Conference & Exhibition (**DATE 2021 (CCF-B)**). IEEE, 2021, pp. 422–427. [pdf](https://ieeexplore.ieee.org/document/9474206)
+
+- **Ziyi Guan**, et al, “A Hardware-Aware Neural Architecture Search Pareto Front Exploration for In-Memory Computing.” in 2022 IEEE 16th International Conference on Solid-State Integrated Circuit Technology (**ICSICT**). IEEE, 2022, pp. 1–4. [pdf](https://ieeexplore.ieee.org/document/9963263/)
 
 Other authors:
-Shuwei Li, **Ziyi Guan**, et al. “A Fall Detection Network by 2D/3D Spatio-temporal Joint Models with Tensor Compression on Edge.” in ACM Transactions on Embedded Computing Systems (**TECS**) vol. 21, no. 6, pp. 1–19, 2022 [PDF](https://dl.acm.org/doi/10.1145/3531004)
+
+- Shuwei Li, **Ziyi Guan**, et al. “A Fall Detection Network by 2D/3D Spatio-temporal Joint Models with Tensor Compression on Edge.” in ACM Transactions on Embedded Computing Systems (**TECS**) vol. 21, no. 6, pp. 1–19, 2022 [PDF](https://dl.acm.org/doi/10.1145/3531004)
 
 
 
