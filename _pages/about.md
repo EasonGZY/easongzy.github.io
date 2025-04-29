@@ -41,11 +41,11 @@ Selected Publications
 
 first author and co-first author:
 
-- **Ziyi Guan***, et al, "KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **ACL 2025** (**CCF-A**).
+- **Ziyi Guan**, et al, "KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **ACL 2025** (**CCF-A**).
 
-- Yupeng Su***, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
+- Yupeng Su, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
 
-- Dingbang Liu***, **Ziyi Guan***, et al, "A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**)
+- Dingbang Liu, **Ziyi Guan***, et al, "A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**)
 
 
 - **Ziyi Guan**, et al, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC 2024 (CCF-A)**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
