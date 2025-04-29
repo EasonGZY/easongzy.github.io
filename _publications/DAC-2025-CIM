@@ -1,0 +1,9 @@
+---
+title: "DAC 2025: A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator"
+collection: publications
+date: 2025-8-20
+venue: 'Proceedings of the 62nd ACM/IEEE Design Automation Conference'
+paperurl: '../files/DAC_2025_CIM_Paper.pdf'
+---
+
+Transformer-basedlargelanguagemodels(LLMs)imposesignifcantbandwidthandcomputechallengeswhen deployedonedgedevices.SRAM-basedcompute-in-memory (CIM)acceleratorsofferapromisingsolutiontoreducedata movementbutarestilllimitedbymodelsize.Thisworkdevelops aternaryweightsplitting(TWS)binarizationtoobtainBrain-Floating-Point-16xINT1(BF16×1-b)basedtransformersthatex-hibitcompetitiveaccuracywhilesignifcantlyreducingmodelsize comparedtofullprecisioncounterparts.Then,afullydigital SRAM-basedCIMacceleratorisdesignedincorporatingabit-parallelSRAMmacrowithinahighlyeffcientgroupvector systolicarchitecture,whichcanstoreonecolumnofBERT-Tiny modelwithstationarysystolicdatareuse.Thedesignina28nm technologyonlyrequires2KBSRAMwithanareaof2mm2.It achievesathroughputof6.55TOPSandconsumesatotalpower of419.74mW,resultinginastate-of-the-artareaeffciencyof 3.3TOPS/mm2andnormalizedenergyeffciencyof20.98TOPS/W forBERT-Tinymodel,demonstratinga10.25×improvementin areaeffciencyanda2.23×improvementinenergyeffciency comparedtootherstate-of-the-artcounterparts.Additionally,our proposedconfgurationcompressesthemodelsizeby32%with onlya0.5%accuracylossonSST-2.
