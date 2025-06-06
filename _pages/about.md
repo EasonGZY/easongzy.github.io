@@ -41,14 +41,14 @@ Selected Publications
 
 first author and co-first author:
 
-- **Ziyi Guan**, et al, "KG-RAG: Enhancing App Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **ACL 2025** (**CCF-A**).
+- **Ziyi Guan**, et al, "KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **EMNLP 2025** (**CCF-A**).
 
-- Yupeng Su, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
+- Yupeng Su, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025 poster**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
 
-- Dingbang Liu, **Ziyi Guan***, et al, "A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator", In Proceedings of **DAC 2025**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**)
+- Dingbang Liu, **Ziyi Guan***, et al, "A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator", In Proceedings of **DAC 2025 poster**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**)
 
 
-- **Ziyi Guan**, et al, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC 2024 (CCF-A)**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
+- **Ziyi Guan**, et al, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC 2024 Oral(CCF-A)**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
 
 - **Ziyi Guan**, et al, “An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design”, Design, Automation & Test in Europe Conference & Exhibition (**DATE 2024 (CCF-B)**), March 25, Valencia, 2024. [PDF](https://ieeexplore.ieee.org/abstract/document/10546743)
 
@@ -61,6 +61,11 @@ Other authors:
 - Shuwei Li, **Ziyi Guan**, et al. “A Fall Detection Network by 2D/3D Spatio-temporal Joint Models with Tensor Compression on Edge.” in ACM Transactions on Embedded Computing Systems (**TECS**) vol. 21, no. 6, pp. 1–19, 2022 [PDF](https://dl.acm.org/doi/10.1145/3531004)
 
 (Last updated on Mar., 2025)
+
+<a href="https://info.flagcounter.com/7qyk">
+  <img src="https://s01.flagcounter.com/count2/7qyk/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"
+       alt="Flag Counter">
+</a>
 
 
 
