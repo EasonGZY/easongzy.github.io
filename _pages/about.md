@@ -41,7 +41,7 @@ Selected Publications
 
 first author and co-first author:
 
-- **Ziyi Guan**, et al, "KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **EMNLP 2025** (**CCF-A**).
+- **Ziyi Guan**, et al, "KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **EMNLP 2025** Reviewer scores: 3.5, 3.5, 3.0 (Avg: 3.33) (**CCF-B NLP Top Conference**).
 
 - Yupeng Su, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025 poster**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
 
