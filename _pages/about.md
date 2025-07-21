@@ -26,7 +26,7 @@ Currently, I am a research intern at Huawei Hong Kong Research Center (HKRC)(sta
   - Developing lightweight neural network architectures for constrained hardware such as **RRAM**.
 
 
-I have published research on LLM pruning, quantization, and hardware-efficient model deployment, with contributions to prominent conferences such as DAC and DATE. Additionally, I am co-authoring papers on cutting-edge LLM optimization and application automation submitted to ACL 2025.
+I have published research on LLM pruning, quantization, and hardware-efficient model deployment, with contributions to prominent conferences such as DAC and DATE. Additionally, I am co-authoring papers on cutting-edge LLM optimization and application automation submitted to EMNLP 2025.
 
 
 <span style="color: red;">I am actively seeking job opportunities starting in Fall 2025 in the field of LLM Agent, LLM compression techniques, especially focusing on model optimization, pruning, quantization, and hardware-efficient neural network design. Please feel free to contact me for potential positions or collaborations.</span>
