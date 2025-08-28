@@ -32,7 +32,7 @@ I have published research on LLM pruning, quantization, and hardware-efficient m
 <span style="color: red;">I am actively seeking job opportunities starting in Fall 2025 in the field of LLM Agent, LLM compression techniques, especially focusing on model optimization, pruning, quantization, and hardware-efficient neural network design. Please feel free to contact me for potential positions or collaborations.</span>
 
 
-You can find my Chinese CV here [Chinese CV](../assets/管子义博士简历-大模型算法研究员.pdf)
+You can find my Chinese CV here [Chinese CV](../assets/管子义博士-大模型算法研究员-2025最新版.pdf)
 
 You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or by my WeChat: Wx555328778 or Mobile Phone: +86 18823347376 (in Chinese Mainland)/ +852 46827377(in Hong Kong)
 
@@ -41,7 +41,7 @@ Selected Publications
 
 first author and co-first author:
 
-- **Ziyi Guan**, et al, "KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" submitted to **EMNLP 2025** Meta Reviewer scores: 3.5 (**CCF-B NLP Top Conference**).
+- **Ziyi Guan**, et al, "KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" In Proceedings of  **EMNLP 2025 Main Conference** (**CCF-B NLP Top Conference**). (**EMNLP 2025 (CCF-B)**)
 
 - Yupeng Su, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025 poster**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
 
@@ -60,7 +60,7 @@ Other authors:
 
 - Shuwei Li, **Ziyi Guan**, et al. “A Fall Detection Network by 2D/3D Spatio-temporal Joint Models with Tensor Compression on Edge.” in ACM Transactions on Embedded Computing Systems (**TECS**) vol. 21, no. 6, pp. 1–19, 2022 [PDF](https://dl.acm.org/doi/10.1145/3531004)
 
-(Last updated on May., 2025)
+(Last updated on Aug., 2025)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-nscv4pQeoMEESU7AgJ6vCgAGxzsHrMmnsZm4xJFXUs&cl=ffffff&w=a"></script>
 
