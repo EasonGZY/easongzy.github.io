@@ -41,11 +41,13 @@ Selected Publications
 
 first author and co-first author:
 
-- **Ziyi Guan**, et al, "KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" In Proceedings of  **EMNLP 2025 Main Conference** (**CCF-B NLP Top Conference**). (**EMNLP 2025 (CCF-B)**)
+- **Ziyi Guan**, et al, "APTQ+: Attention-FFN-aware Post Quantization for Layerwise LLM Acclerator on FPGA" submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD) (CCF-A)** (Under Review)
 
-- Yupeng Su, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025 poster**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
+- **Ziyi Guan**, et al, "KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" In Proceedings of  **EMNLP 2025 Main Conference** (**CCF-B NLP Top Conference**). (**EMNLP 2025 (CCF-B)**) [PDF](https://arxiv.org/abs/2509.00366)
 
-- Dingbang Liu, **Ziyi Guan***, et al, "A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator", In Proceedings of **DAC 2025 poster**: 61st IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**)
+- Yupeng Su, **Ziyi Guan***, et al, "LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models", In Proceedings of **DAC 2025 poster**: 62nd IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**) [PDF](https://www.arxiv.org/abs/2408.10631)
+
+- Dingbang Liu, **Ziyi Guan***, et al, "A Highly Energy-Efficient Binary BERT Model on Group Vector Systolic CIM Accelerator", In Proceedings of **DAC 2025 poster**: 62nd IEEE/ACM Design Automation Conference. (**DAC 2025 (CCF-A)**)
 
 
 - **Ziyi Guan**, et al, “APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models”, In Proceedings of **DAC 2024**: 61st IEEE/ACM Design Automation Conference. (**DAC 2024 Oral(CCF-A)**), San Francisco, CA, June 23-27, 2024. [PDF](https://arxiv.org/abs/2402.14866)
