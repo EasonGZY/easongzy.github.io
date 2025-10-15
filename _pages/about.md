@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I’m Ziyi Guan (管子义), an AI Infra Researcher with ByteDance — Seed Infra, Heterogeneous Computing Group (since Oct 2025). I will earn my Ph.D. degree from The University of Hong Kong (HKU) on Nov 2025, supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/)  and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
+I’m Ziyi Guan (管子义), an **AI Infra Researche**r with **ByteDance — Seed Infra**, Heterogeneous Computing Group (since Oct 2025). I will earn my Ph.D. degree from The University of Hong Kong (HKU) on Nov 2025, supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/)  and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
 
 At Seed Infra, I focus on end-to-end acceleration for domestic AI chips, including KV-cache compression for long-context serving, post-training quantization/pruning/sparsity, training-time acceleration, and RL-friendly quantized inference—driving lower latency, higher throughput, and better cost efficiency across heterogeneous systems.
 
