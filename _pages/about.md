@@ -8,11 +8,16 @@ redirect_from:
 ---
 
 
-I am Ziyi Guan (管子义), a fourth-year Ph.D. candidate at The University of Hong Kong (HKU), supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/)  and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). I am expected to graduate from The University of Hong Kong (HKU) in September 2025. Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
+I’m Ziyi Guan (管子义), an AI Infra Researcher with ByteDance — Seed Infra, Heterogeneous Computing Group (since Oct 2025). I will earn my Ph.D. degree from The University of Hong Kong (HKU) on Nov 2025, supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/)  and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
 
-My research focuses on optimizing large language models (LLMs), particularly through compression techniques like quantization, pruning, and distillation. Additionally, I am involved in developing LLM-based agents, especially APP/GUI Agents and Retrieval-Augmented Generation (RAG) frameworks for improved decision-making and task automation. You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en)
+At Seed Infra, I focus on end-to-end acceleration for domestic AI chips, including KV-cache compression for long-context serving, post-training quantization/pruning/sparsity, training-time acceleration, and RL-friendly quantized inference—driving lower latency, higher throughput, and better cost efficiency across heterogeneous systems.
 
-Currently, I am a research intern at Huawei Hong Kong Research Center (HKRC)(starting from November 2024)., focusing on developing GUI Test Agents and enhancing test automation using RAG-based frameworks. This research aims to improve the efficiency of mobile application testing across multiple platforms.
+My research spans LLM optimization (quantization, pruning, distillation) and LLM-based agents (GUI/App agents and RAG frameworks). I also explore hardware-efficient neural networks co-designed with emerging accelerators.
+
+
+You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en) (DAC,EMNLP, ICCAD, DATE, and ongoing work submitted to TCAD)
+
+Previously, I worked at Huawei Hong Kong Research Center (Nov 2024 – Sep 2025) on KG-RAG GUI Test Agents, enhancing multi-platform mobile app testing via retrieval-augmented reasoning and this line of work includes a paper accepted to EMNLP 2025 (Main).
 
 ### Research Interests:
 - **LLM Compression & Optimization**:  
@@ -32,7 +37,7 @@ I have published research on LLM pruning, quantization, and hardware-efficient m
 <span style="color: red;">I am actively seeking job opportunities starting in Fall 2025 in the field of LLM Agent, LLM compression techniques, especially focusing on model optimization, pruning, quantization, and hardware-efficient neural network design. Please feel free to contact me for potential positions or collaborations.</span>
 
 
-You can find my Chinese CV here [Chinese CV](../assets/管子义博士-大模型算法研究员-2025最新版.pdf)
+You can find my Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf)
 
 You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or by my WeChat: Wx555328778 or Mobile Phone: +86 18823347376 (in Chinese Mainland)/ +852 46827377(in Hong Kong)
 
@@ -62,7 +67,7 @@ Other authors:
 
 - Shuwei Li, **Ziyi Guan**, et al. “A Fall Detection Network by 2D/3D Spatio-temporal Joint Models with Tensor Compression on Edge.” in ACM Transactions on Embedded Computing Systems (**TECS**) vol. 21, no. 6, pp. 1–19, 2022 [PDF](https://dl.acm.org/doi/10.1145/3531004)
 
-(Last updated on Aug., 2025)
+(Last updated on Oct., 2025)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-nscv4pQeoMEESU7AgJ6vCgAGxzsHrMmnsZm4xJFXUs&cl=ffffff&w=a"></script>
 
