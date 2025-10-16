@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I’m Ziyi Guan (管子义), an **AI Infra Researche**r with **ByteDance — Seed Infra**, Heterogeneous Computing Group (since Oct 2025). I will earn my Ph.D. degree from The University of Hong Kong (HKU) on Nov 2025, supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/)  and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
+I’m Ziyi Guan (管子义), an **AI Infra Researcher** with **ByteDance — Seed Infra**, Heterogeneous Computing Group (since Oct 2025). I will earn my Ph.D. degree from The University of Hong Kong (HKU) on Nov 2025, supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/)  and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
 
 At Seed Infra, I focus on end-to-end acceleration for domestic AI chips, including KV-cache compression for long-context serving, post-training quantization/pruning/sparsity, training-time acceleration, and RL-friendly quantized inference—driving lower latency, higher throughput, and better cost efficiency across heterogeneous systems.
 
@@ -29,12 +29,6 @@ Previously, I worked at Huawei Hong Kong Research Center (Nov 2024 – Sep 2025)
 
 - **Hardware-Efficient Neural Networks**:  
   - Developing lightweight neural network architectures for constrained hardware such as **RRAM**.
-
-
-I have published research on LLM pruning, quantization, and hardware-efficient model deployment, with contributions to prominent conferences such as DAC, DATE, ICCAD. Additionally, I am co-authoring papers on cutting-edge LLM optimization and application automation submitted to EMNLP 2025.
-
-
-<span style="color: red;">I am actively seeking job opportunities starting in Fall 2025 in the field of LLM Agent, LLM compression techniques, especially focusing on model optimization, pruning, quantization, and hardware-efficient neural network design. Please feel free to contact me for potential positions or collaborations.</span>
 
 
 You can find my Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf)
