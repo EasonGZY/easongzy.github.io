@@ -33,7 +33,7 @@ Previously, I worked at Huawei Hong Kong Research Center (Nov 2024 – Sep 2025)
 
 You can find my Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf)
 
-You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or by my WeChat: Wx555328778 or Mobile Phone: +86 18823347376 (in Chinese Mainland)/ +852 46827377(in Hong Kong)
+You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or by my WeChat: Wx555328778.
 
 Selected Publications
 (*represents equal contribution)
