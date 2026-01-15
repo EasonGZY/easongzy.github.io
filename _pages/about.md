@@ -31,9 +31,9 @@ Previously, I worked at Huawei Hong Kong Research Center (Nov 2024 – Sep 2025)
   - Developing lightweight neural network architectures for constrained hardware such as **RRAM**.
 
 
-You can find my Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf)
+# You can find my Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf)
 
-You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or by my WeChat: Wx555328778.
+You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or gzygwp@gmail.com
 
 Selected Publications
 (*represents equal contribution)
