@@ -31,7 +31,7 @@ Previously, I worked at Huawei Hong Kong Research Center (Nov 2024 – Sep 2025)
   - Developing lightweight neural network architectures for constrained hardware such as **RRAM**.
 
 
-# You can find my Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf)
+# You can find my Chinese CV here [Chinese CV](../assets/2026年6月管子义博士-大模型算法研究员.pdf)
 
 You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or gzygwp@gmail.com
 
@@ -40,7 +40,7 @@ Selected Publications
 
 first author and co-first author:
 
-- **Ziyi Guan**, et al, "APTQ+: Attention-FFN-aware Post Quantization for Layerwise LLM Acclerator on FPGA" submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD) (CCF-A)** (Under Review)
+- **Ziyi Guan**, et al, "APTQ+: Attention-FFN-aware Post-Training Quantization for a Layer-wise LLM Accelerator on FPGA" , accepted in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD) (CCF-A)** [PDF](https://ieeexplore.ieee.org/document/11536074)
 
 - **Ziyi Guan**, et al, "KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation" In Proceedings of  **EMNLP 2025 Main Conference** (**CCF-B NLP Top Conference**). (**EMNLP 2025 (CCF-B)**) [PDF](https://arxiv.org/abs/2509.00366)
 
