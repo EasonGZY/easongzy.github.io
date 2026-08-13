@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-You can download a PDF copy of my Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf)
+You can download my latest Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf).

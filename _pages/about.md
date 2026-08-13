@@ -8,30 +8,28 @@ redirect_from:
 ---
 
 
-I’m Ziyi Guan (管子义), an **AI Infra Researcher** with **ByteDance — Seed Infra**, Heterogeneous Computing Group (since Oct 2025). I will earn my Ph.D. degree from The University of Hong Kong (HKU) on Nov 2025, supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/)  and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html). 
+I’m Ziyi Guan (管子义), an **AI Infra Researcher** with **ByteDance — Seed Infra**, Heterogeneous Computing Group. I completed my Ph.D. in Electrical and Electronic Engineering at The University of Hong Kong (HKU) in November 2025, supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/) and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html).
 
-At Seed Infra, I focus on end-to-end acceleration for domestic AI chips, including KV-cache compression for long-context serving, post-training quantization/pruning/sparsity, training-time acceleration, and RL-friendly quantized inference—driving lower latency, higher throughput, and better cost efficiency across heterogeneous systems.
+My current work focuses on **large language model (LLM) inference**. At Seed Infra, I work on end-to-end inference optimization across model, operator, and serving-system layers, including prefill/decode acceleration, KV-cache compression, quantization and sparsity, continuous batching, and precision/performance validation on heterogeneous AI hardware. The goal is to reduce latency and memory use while improving throughput, efficiency, and cost.
 
-My research spans LLM optimization (quantization, pruning, distillation) and LLM-based agents (GUI/App agents and RAG frameworks). I also explore hardware-efficient neural networks co-designed with emerging accelerators.
+My earlier research covered LLM compression, multimodal and GUI agents, RAG frameworks, and hardware-efficient neural network architectures co-designed with emerging accelerators.
 
 
-You can find my publication from my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en) (DAC,EMNLP, ICCAD, DATE, and ongoing work submitted to TCAD)
+My publications include work appearing at DAC, EMNLP, ICCAD, DATE, and IEEE TCAD; see my [Google Scholar](https://scholar.google.com/citations?user=TtFFJL8AAAAJ&hl=en) for the latest list.
 
 Previously, I worked at Huawei Hong Kong Research Center (Nov 2024 – Sep 2025) on KG-RAG GUI Test Agents, enhancing multi-platform mobile app testing via retrieval-augmented reasoning and this line of work includes a paper accepted to EMNLP 2025 (Main).
 
 ### Research Interests:
-- **LLM Compression & Optimization**:  
-  - Weight **quantization**, **pruning**, and **distillation** for efficient model deployment.
+- **LLM Inference & Serving**: Prefill/decode optimization, KV-cache management and compression, continuous batching, long-context serving, and inference performance analysis.
 
-- **LLM Agents**:  
-  - Designing **GUI Agents** and exploring **Retrieval-Augmented Generation (RAG)** for task automation.
-  - Developing **post-training techniques** such as **Supervised Fine-Tuning (SFT)** and **Reinforcement Learning (RL)** for enhanced agent functionality and efficiency.
+- **Inference Optimization**: Weight and KV **quantization**, **sparsity/pruning**, distillation, and operator/kernel co-design for efficient deployment.
 
-- **Hardware-Efficient Neural Networks**:  
-  - Developing lightweight neural network architectures for constrained hardware such as **RRAM**.
+- **Heterogeneous AI Systems**: Algorithm-hardware co-design and performance optimization for domestic and emerging AI accelerators.
+
+- **LLM Agents**: GUI/App agents and **Retrieval-Augmented Generation (RAG)** for task automation.
 
 
-# You can find my Chinese CV here [Chinese CV](../assets/2026年6月管子义博士-大模型算法研究员.pdf)
+# You can find my latest Chinese CV here [Chinese CV](../assets/管子义博士-大模型Infra研究员.pdf)
 
 You can contact me by my [Email](mailto:u3008363@connect.hku.hk) or gzygwp@gmail.com
 
@@ -64,6 +62,5 @@ Other authors:
 (Last updated on Oct., 2025)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-nscv4pQeoMEESU7AgJ6vCgAGxzsHrMmnsZm4xJFXUs&cl=ffffff&w=a"></script>
-
 
 
