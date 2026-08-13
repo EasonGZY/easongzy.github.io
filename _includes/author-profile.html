@@ -155,4 +155,20 @@
       {% endif %}      
     </ul>
   </div>
+
+  {% if site.visitor_counter.enabled %}
+    <div class="visitor-card" aria-label="Site activity">
+      <div class="visitor-card__header">
+        <span class="visitor-card__title">Site activity</span>
+        <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
+      </div>
+      <div class="visitor-card__body">
+        <span class="visitor-card__label">Total visits</span>
+        <a class="visitor-card__badge" href="{{ site.visitor_counter.link }}" target="_blank" rel="noopener" aria-label="View visitor statistics">
+          <img src="{{ site.visitor_counter.image }}" alt="Total site visits">
+        </a>
+      </div>
+      <p class="visitor-card__note">Approximate page visits · Powered by Hits</p>
+    </div>
+  {% endif %}
 </div>

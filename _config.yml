@@ -16,6 +16,12 @@ url                      : https://easongzy.github.io # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EasonGZY/easongzy.github.io"
 
+# Lightweight aggregate visitor counter for the public site.
+visitor_counter:
+  enabled                : true
+  image                  : "https://hits.sh/easongzy.github.io.svg?label=visits&labelColor=425466&color=4f8ef7&style=flat-square"
+  link                   : "https://hits.sh/easongzy.github.io/"
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
