@@ -10,7 +10,7 @@ redirect_from:
 
 I’m Ziyi Guan (管子义), an **AI Infra Researcher** with **ByteDance — Seed Infra**, Heterogeneous Computing Group. I completed my Ph.D. in Electrical and Electronic Engineering at The University of Hong Kong (HKU) in November 2025, supervised by [Dr. Ngai Wong](https://www.eee.hku.hk/~nwong/) and [Prof. Graziano Chesi](https://www.eee.hku.hk/people/chesi/). Before that, I received my Bachelor's degree from the School of Microelectronics at the Southern University of Science and Technology in 2021, supervised by [Prof. Hao Yu](https://www.sustech.edu.cn/en/faculties/yuhao.html).
 
-My current work focuses on **large language model (LLM) inference and deployment**. During my work at Seed Infra, I contributed to inference acceleration and deployment for the **Seed2.0** model family, including model/runtime integration, XG inference-stack development, ACL Graph execution adaptation, and CI-based regression and precision/performance validation. More broadly, I work across model, operator, and serving-system layers on prefill/decode acceleration, sparse attention, KV-cache compression, quantization, continuous batching, and graph-based execution. The goal is to reduce latency and memory use while improving throughput, efficiency, and deployment reliability.
+My current work focuses on **large language model (LLM) inference and deployment**. During my work at Seed Infra, I contributed to inference acceleration and deployment for the **Seed2.0** model family, including model/runtime integration, internal inference framework development, ACL Graph execution adaptation, and CI-based regression and precision/performance validation. More broadly, I work across model, operator, and serving-system layers on prefill/decode acceleration, sparse attention, KV-cache compression, quantization, continuous batching, and graph-based execution. The goal is to reduce latency and memory use while improving throughput, efficiency, and deployment reliability.
 
 My earlier research covered LLM compression, multimodal and GUI agents, RAG frameworks, and hardware-efficient neural network architectures co-designed with emerging accelerators.
 
@@ -22,7 +22,7 @@ Previously, I worked at Huawei Hong Kong Research Center (Nov 2024 – Sep 2025)
 ### Research Interests:
 - **LLM Inference & Deployment**: Prefill/decode optimization, KV-cache management and compression, continuous batching, long-context serving, and inference performance analysis.
 
-- **Inference Runtime & Engineering**: Graph-based execution, runtime and operator adaptation, XG inference-stack development, CI/regression systems, and precision/performance validation.
+- **Inference Runtime & Engineering**: Graph-based execution, runtime and operator adaptation, internal inference framework development, CI/regression systems, and precision/performance validation.
 
 - **Inference Optimization**: Weight and KV **quantization**, **sparsity/pruning**, sparse attention, distillation, and operator/kernel co-design for efficient deployment.
 
