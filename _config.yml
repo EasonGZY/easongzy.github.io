@@ -24,9 +24,9 @@ author:
   avatar           : "my_2.png"
   name             : "Ziyi Guan"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, The University of Hong Kong (HKU)"
-  location         : "Hong Kong"
-  employer         : "The University of Hong Kong"
+  bio              : "AI Infra Researcher, ByteDance — Seed Infra (LLM Inference)"
+  location         : "Hangzhou"
+  employer         : "ByteDance — Seed Infra"
   uri              : https://easongzy.github.io/
   email            : "u3008363@connect.hku.hk" 
 
